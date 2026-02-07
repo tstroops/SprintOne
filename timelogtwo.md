@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Thomas Stroops
 
-Sprint #:
+Sprint #:2
 
 ## Instructions
 
@@ -26,12 +26,17 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|1/26|2:30|group|learning input fields for app|80|
+|1/27|3:34|group|displaying scrollable content|60|
+|1/28|2:00|group|sign up page|60|
+|1/29|6:40|personal|displaying database output|60|
+|1/30|2:13|group|sign in page|100|
+|1/31|2:51|group|sign in sign up page buttons and appearance|60|
+|2/2|2:00|group|testing and updates for auth; navigation|120|
+|2/3|5:49|group|screen sizes|60|
+|2/4|6:14|personal|display of database data; inserting data to the table|60|
+|2/5|4:21|group|nav controller|60|
+|2/6/26|2:00|personal|finalized implementation of database requirements as per the module|120|
 
 _Note: Add more rows as needed._
 
@@ -39,7 +44,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |4:00|
+|TP - Team Project              |10:00|
+|MTG - Class Meetings           |4:00|
+|**TOTAL**                      |18:  |
